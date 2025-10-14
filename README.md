@@ -30,3 +30,7 @@ Sélection par propriété externe (sans Spring Boot)
 
 Journalisation rapide (trace du bean injecté)
 <img width="2560" height="1600" alt="Screenshot 2025-10-14 231615" src="https://github.com/user-attachments/assets/085c8b28-9667-4134-911e-9ff8c9afc49d" />
+
+Test Result :
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8f9e883-e86b-4452-a1d5-4e57075a7233" />
+
